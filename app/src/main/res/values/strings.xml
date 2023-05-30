@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">10120090_UTS</string>
+    <string name="informasi_aplikasi">
+        Aplikasi ini dibuat untuk memenuhi salah satu tugas pengganti UTS (Ujian Tengah Semester) dari mata kuliah Alat Komputasi Bergerak yang diampu oleh Bapak Alif Finandhita, S.Kom, M.T.
+        \n
+    Aplikasi ini dirancang untuk memudahkan pengguna dalam mencatat kegiatan sehari-harinya, ide, atau catatan penting lainnya secara digital. Dengan antarmuka yang user-friendly, pengguna dapat dengan mudah membuat, mengedit, dan menghapus catatan sesuai dengan kebutuhannya.\n
+    Aplikasi Catatan Harian ini menyediakan berbagai fitur yang berguna sehingga memungkinkan pengguna untuk menyimpan dan mengakses informasi dengan lebih lengkap.\n
+    Dengan adanya Aplikasi Catatan Harian, pengguna tidak perlu lagi repot membawa buku catatan fisik yang rentan hilang atau rusak. Semua catatan penting dapat diakses melalui perangkat mobile mereka kapanpun dan di manapun.
+
+    </string>
+    <string name="informasi_aplikasi2">
+    Aplikasi ini dirancang untuk memudahkan pengguna dalam mencatat kegiatan sehari-harinya, ide, atau catatan penting lainnya secara digital. Dengan antarmuka yang user-friendly, pengguna dapat dengan mudah membuat, mengedit, dan menghapus catatan sesuai dengan kebutuhannya.\n
+    Aplikasi Catatan Harian ini menyediakan berbagai fitur yang berguna sehingga memungkinkan pengguna untuk menyimpan dan mengakses informasi dengan lebih lengkap.\n
+    Dengan adanya Aplikasi Catatan Harian, pengguna tidak perlu lagi repot membawa buku catatan fisik yang rentan hilang atau rusak. Semua catatan penting dapat diakses melalui perangkat mobile mereka kapanpun dan di manapun.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

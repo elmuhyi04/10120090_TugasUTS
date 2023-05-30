@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/baseline_person_pin_24"/>
+    <item android:title="Note"
+        android:id="@+id/catatan"
+        android:icon="@drawable/baseline_event_note_24"/>
+    <item android:title="Info Aplikasi"
+        android:id="@+id/infoaplikasi"
+        android:icon="@drawable/baseline_info_24"/>
+</menu>

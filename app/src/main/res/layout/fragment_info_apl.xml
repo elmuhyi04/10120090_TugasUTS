@@ -1,0 +1,50 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#F2F2F2"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="presenter.InfoAplFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="#FFFFFF">
+
+        <TextView
+            android:id="@+id/judul"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="♫ Informasi Aplikasi ♫"
+            android:textSize="20sp"
+            android:textColor="#333333"
+            android:layout_marginTop="32dp"
+            android:fontFamily="sans-serif-medium"/>
+
+        <ImageView
+            android:id="@+id/profile_image"
+            android:layout_width="140dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/infoaplikasi"
+            android:background="@drawable/circle_background"
+            android:clipToOutline="true"
+            android:layout_marginTop="32dp" />
+
+        <TextView
+            android:id="@+id/layout2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="@string/informasi_aplikasi"
+            android:textSize="16sp"
+            android:layout_gravity="end"
+            android:background="#ffffff"
+            android:textColor="#333333" />
+    </LinearLayout>
+
+</FrameLayout>
